@@ -1,5 +1,9 @@
 # algorithm-basic
-> 算法模板 以及 练习题目
+> **算法模板** **From** [https://www.acwing.com/activity/content/11/](<https://www.acwing.com/activity/content/11/>)
+
+```diff
+! 非官方整理
+```
 
 ## chapter-1
 
@@ -13,3 +17,16 @@
 > - [双指针](https://github.com/hanxuanliang/algorithm-basic/blob/master/chapter-1/5-24-template.md#%E5%8F%8C%E6%8C%87%E9%92%88)
 > - [离散化](https://github.com/hanxuanliang/algorithm-basic/blob/master/chapter-1/5-24-template.md#%E7%A6%BB%E6%95%A3%E5%8C%96)
 > - [区间合并](https://github.com/hanxuanliang/algorithm-basic/blob/master/chapter-1/5-24-template.md#%E5%8C%BA%E9%97%B4%E5%90%88%E5%B9%B6)
+
+## 更多推荐
+
+- [@extrovert](<https://github.com/pkuzengqi>) 算法刷题题解
+
+  传送门：[https://github.com/pkuzengqi/Algorithm_and_More](<https://github.com/pkuzengqi/Algorithm_and_More>)
+
+## 感谢
+
+感谢 [yxc](<https://www.acwing.com/user/myspace/index/1/>) 站长  [熊博士](<https://www.acwing.com/user/myspace/index/18/>)管理员
+
+:punch:   出品自 **[Acwing](<https://www.acwing.com/>)&copy;**
+
